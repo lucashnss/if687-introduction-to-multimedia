@@ -1,3 +1,8 @@
+// Lembrem-se de que qualquer propriedade visual pode ser vinculada a uma variável de loop, não apenas a posição. 
+// Utilizem iteração para gerar uma série de retângulos. Seu código deve controlar simultaneamente várias propriedades visuais dos retângulos,
+// incluindo a posição, altura e cor de preenchimento.
+
+
 let rectNum = 10;
 function setup() {
   createCanvas(600, 650);
